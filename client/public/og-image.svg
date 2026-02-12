@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f25f4c" />
+      <stop offset="50%" stop-color="#f7c8ba" />
+      <stop offset="100%" stop-color="#f7f3ef" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="80" y="80" width="1040" height="470" rx="32" fill="#ffffff" opacity="0.92" />
+  <text x="140" y="200" font-family="Space Grotesk, Arial, sans-serif" font-size="54" fill="#0f172a" font-weight="700">
+    Excellent Tutor
+  </text>
+  <text x="140" y="270" font-family="Manrope, Arial, sans-serif" font-size="28" fill="#1f2937">
+    Class 8–10 learning platform for Nepali curriculum
+  </text>
+  <text x="140" y="330" font-family="Manrope, Arial, sans-serif" font-size="22" fill="#475569">
+    Notes · Videos · Model Questions · Live Sessions
+  </text>
+  <rect x="140" y="380" width="220" height="50" rx="25" fill="#f25f4c" />
+  <text x="170" y="414" font-family="Space Grotesk, Arial, sans-serif" font-size="20" fill="#fff" font-weight="600">
+    Start Learning
+  </text>
+  <rect x="390" y="380" width="220" height="50" rx="25" fill="#0f172a" opacity="0.08" />
+  <text x="420" y="414" font-family="Space Grotesk, Arial, sans-serif" font-size="20" fill="#0f172a" font-weight="600">
+    SEE Ready
+  </text>
+</svg>
